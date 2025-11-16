@@ -1,6 +1,6 @@
 <h1 align="center">
  <br>
-  <img src="https://cdn.discordapp.com/avatars/1333527963412594730/36097d8e4607f8edd8be07bf1ebf669f.webp?size=2048">
+  <img src="https://cdn.discordapp.com/avatars/1333527963412594730/36097d8e4607f8edd8be07bf1ebf669f.webp?size=128">
   <br>
   Matrix – The Ultimate Discord Bot
   <br>
@@ -66,7 +66,7 @@ Matrix is a powerful, easy-to-use Discord bot designed to enhance your server ex
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/CuteBoy/Matrix.git
+   git clone https://github.com/mxtrix67/Matrix.git
    cd Matrix
    ```
 2. Install dependencies:
