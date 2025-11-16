@@ -130,8 +130,8 @@ For help, questions, or to report issues, join the Matrix support server:
 
 ## Credits
 
-- **Owner & Lead Developer:** **[CuteBoy]()**  
-- **Bot Name:** Matrix  
+- **Owner & Lead Developer:** **[CuteBoy](https://github.com/mxtrix67/Readme)**  
+- **Bot Name:** **Matrix#8250**  
 - Built with **Node.js** and **discord.js**.
 
 <div align="center">
