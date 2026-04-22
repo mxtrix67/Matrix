@@ -1,0 +1,15 @@
+{
+    "TOKEN": "token_dalo_bhaiya",
+    "MONGO_DB": "mongo_uri_dalo_bhaiya",
+    "cooldown": true,
+    "owner": [
+        "owner_id_dalo_bhaiya"
+    ],
+    "admin": [
+        "admin_id_dalo_bhaiya"
+    ],
+    "np": [
+        "np_id_dalo_bhaiya"
+    ],
+    "invite": "invite_link_dalo_bhaiya"
+}
