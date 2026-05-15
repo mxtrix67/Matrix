@@ -66,7 +66,7 @@ Matrix is a powerful, easy-to-use Discord bot designed to enhance your server ex
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/mxtrix67/Matrix.git
+   git clone https://github.com/matrix-development-devs/Matrix.git
    cd Matrix
    ```
 2. Install dependencies:
